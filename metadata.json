@@ -2,7 +2,7 @@
   "name": "Nama Token Anda",
   "symbol": "NTKN",
   "description": "Deskripsi singkat token Anda.",
-  "image": "https://gateway.pinata.cloud/ipfs/QmExampleImageHash",
+  "image": "https://raw.githubusercontent.com/kmpro888/sol/refs/heads/main/oxva.png",
   "attributes": [
     {
       "trait_type": "Category",
@@ -17,7 +17,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://gateway.pinata.cloud/ipfs/QmExampleImageHash",
+        "uri": "https://raw.githubusercontent.com/kmpro888/sol/refs/heads/main/oxva.png",
         "type": "image/png"
       }
     ]
