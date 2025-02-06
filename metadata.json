@@ -1,0 +1,25 @@
+{
+  "name": "Nama Token Anda",
+  "symbol": "NTKN",
+  "description": "Deskripsi singkat token Anda.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmExampleImageHash",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility Token"
+    }
+  ],
+  "socials": {
+    "website": "https://example.com",
+    "twitter": "https://twitter.com/username",
+    "discord": "https://discord.gg/invitecode"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/QmExampleImageHash",
+        "type": "image/png"
+      }
+    ]
+  }
+}
